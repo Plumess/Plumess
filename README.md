@@ -83,6 +83,6 @@
 ## ☎️ **Contact Me**
 
 - Email: <a href="mailto:plume@plumes.moe">plume@plumes.moe</a>
-- Personal Space (Chinese): [https://home.plumes.moe/](https://home.plumes.moe/)
-- Bilibili: [@Alisa_Akiron](https://space.bilibili.com/13544842)
+- Personal Space: [https://home.plumes.moe/](https://home.plumes.moe/)
+- Bilibili: [@Plumess丶](https://space.bilibili.com/13544842)
 
