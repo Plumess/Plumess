@@ -27,13 +27,13 @@
 ## 📚 **My GitHub**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark&card_width=320" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark&card_width=220" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=300" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=100" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=542" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=342" />
 </a>
 
 ## 🚉 **Tools & Platforms**
