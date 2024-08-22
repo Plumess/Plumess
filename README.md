@@ -20,12 +20,8 @@
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
-
-**Cloud Native & Infrastructure**
-
 ![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
 
 ## 📚 **My GitHub**
 
