@@ -11,6 +11,7 @@
 ![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=fff)
 ![RockChip](https://img.shields.io/badge/-RKNN-000000?style=flat-square&logo=RockChip&logoColor=fff)
 ![Qualcomm](https://img.shields.io/badge/-QNN-3253DC?style=flat-square&logo=qualcomm&logoColor=fff)
+![TensorRT](https://img.shields.io/badge/-Triton%20%28learning%29-4EAA25?style=flat-square&logo=nvidia&logoColor=fff)
 
 **Development Skills**
 
