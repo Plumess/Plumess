@@ -35,7 +35,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark" />
 </picture>
 
 <picture>
@@ -47,7 +47,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
 </picture>
 
 ## 🚉 **Tools & Platforms**
