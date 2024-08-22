@@ -55,7 +55,7 @@
 
 ## 🚉 **Tools & Platforms**
 
-**System**
+**Operating System**
 
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![Pop! OS](https://img.shields.io/badge/-Pop!%20OS-48B9C7?style=flat-square&logo=popos&logoColor=fff)
