@@ -55,27 +55,19 @@
 
 ## 🚉 **Tools & Platforms**
 
-**Desktop**
+**System**
 
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=windows&logoColor=fff)
 ![Pop! OS](https://img.shields.io/badge/-Pop!%20OS-48B9C7?style=flat-square&logo=popos&logoColor=fff)
+![Alma Linux](https://img.shields.io/badge/-AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=fff)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)
 
 **IDE & Editor**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=fff)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4E3188?style=flat-square&logo=visual-studio&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=fff)
-
-**Server**
-
-![Alma Linux](https://img.shields.io/badge/-AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=fff)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)
-
-**Other**
-
 ![UnrealEngine](https://img.shields.io/badge/-Unreal%20Engine%20%28learning%29-0E1128?style=flat-square&logo=unrealengine&logoColor=fff)
-![PhotoShop](https://img.shields.io/badge/-PhotoShop%20%28learning%29-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=fff)
-![PremierPro](https://img.shields.io/badge/-PremierPro%20%28learning%29-0E1128?style=flat-square&logo=adobepremierepro&logoColor=fff)
 
 ## ☎️ **Contact Me**
 
