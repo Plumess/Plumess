@@ -26,23 +26,15 @@
 
 ## 📚 **My GitHub**
 
-<div style="width: 100%; text-align: center;">
-  <!-- 第一个占60% -->
-  <div style="display: inline-block; width: 60%; vertical-align: top;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark" />
-  </div>
-
-  <!-- 第二个占40% -->
-  <div style="display: inline-block; width: 40%; vertical-align: top;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
-  </div>
-</div>
-
-<!-- 第三个在第二行，占满一整行 -->
-<div style="width: 100%; text-align: center; margin-top: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark&card_width=520" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=300" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark&card_width=742" />
+</a>
 
 ## 🚉 **Tools & Platforms**
 
