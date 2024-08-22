@@ -1,7 +1,7 @@
 ## Hi 👋 I'm **Plume**
 
 - I am working as a CVer, Image Processor and Deep Learning Engineer.
-- I am learning Containerization such as K8S and Docker, Large language models such as LLaMA and Unreal Engine.
+- I am learning Large language models such as LLaMA, Containerization such as Docker/Kubernetes, and Unreal Engine.
 
 ## 🌟 **My Skills**
 
@@ -66,13 +66,10 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-4E3188?style=flat-square&logo=visual-studio&logoColor=fff)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=fff)
 
-
 **Server**
 
 ![Alma Linux](https://img.shields.io/badge/-AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)
-
-
 
 **Other**
 
