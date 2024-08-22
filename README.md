@@ -29,40 +29,18 @@
 <div style="width: 100%; text-align: center;">
   <!-- 第一个占60% -->
   <div style="display: inline-block; width: 60%; vertical-align: top;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark" />
-    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark" />
   </div>
 
   <!-- 第二个占40% -->
   <div style="display: inline-block; width: 40%; vertical-align: top;">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
-    </picture>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
   </div>
 </div>
 
 <!-- 第三个在第二行，占满一整行 -->
 <div style="width: 100%; text-align: center; margin-top: 10px;">
-  <picture>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark" />
 </div>
 
 
