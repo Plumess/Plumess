@@ -8,10 +8,10 @@
 **Deep Learning & AI Frameworks**
 
 ![Pytorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
-![TensorRT](https://img.shields.io/badge/-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=fff)
-![RockChip](https://img.shields.io/badge/-RKNN-000000?style=flat-square&logo=RockChip&logoColor=fff)
-![Qualcomm](https://img.shields.io/badge/-QNN-3253DC?style=flat-square&logo=qualcomm&logoColor=fff)
-![TensorRT](https://img.shields.io/badge/-Triton%20%28learning%29-4EAA25?style=flat-square&logo=nvidia&logoColor=fff)
+![TensorRT](https://img.shields.io/badge/-NVIDIA%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=fff)
+![RockChip](https://img.shields.io/badge/-RockChip%20RKNN-000000?style=flat-square&logo=RockChip&logoColor=fff)
+![Qualcomm](https://img.shields.io/badge/-Qualcomm%20QNN-3253DC?style=flat-square&logo=qualcomm&logoColor=fff)
+![TensorRT](https://img.shields.io/badge/-NVIDIA%20Triton%20%28learning%29-4EAA25?style=flat-square&logo=nvidia&logoColor=fff)
 
 **Development Skills**
 
