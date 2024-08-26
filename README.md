@@ -26,41 +26,49 @@
 
 ## 📚 **My GitHub**
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true" />
-</picture>
+<div style="display: flex; justify-content: space-between;">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true" />
+  </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact" />
-</picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true" />
+  </picture>
+
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact" />
+  </picture>
+
+</div>
 
 ## 🚉 **Tools & Platforms**
 
