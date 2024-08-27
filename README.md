@@ -24,7 +24,17 @@
 ![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact" />
+</picture>
 
 ## 📚 **My GitHub**
 
