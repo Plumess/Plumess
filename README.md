@@ -80,7 +80,7 @@
 
 ## ☎️ **Contact Me**
 
-- Email: <a href="mailto:plume@plumes.moe">plume@plumes.moe</a>
+- Email: <a href="mailto:agcl1021@gmail.com">agcl1021@gmail.com</a>
 - Personal Space: [https://home.plumes.moe/](https://home.plumes.moe/)
 - Bilibili: [@Plumess丶](https://space.bilibili.com/13544842)
 
