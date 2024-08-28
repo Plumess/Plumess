@@ -4,13 +4,10 @@
 - I am learning Large language models such as LLaMA, Containerization such as Docker/Kubernetes, and Triton.
 
 ## 📚 **My GitHub**
-<picture>
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
-</picture>
-
-<picture>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true" />
-</picture>
+</p>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Plumess&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
