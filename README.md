@@ -3,6 +3,17 @@
 - I am working as a CVer, Image Processor and Deep Learning Engineer.
 - I am learning Large language models such as LLaMA, Containerization such as Docker/Kubernetes, and Triton.
 
+## 📚 **My GitHub**
+<picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
+</picture>
+
+<picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true" />
+</picture>
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Plumess&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+
 ## 🌟 **My Skills**
 
 **Deep Learning & AI Frameworks**
@@ -35,17 +46,6 @@
   />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&card_width=800" />
 </picture>
-
-## 📚 **My GitHub**
-<picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
-</picture>
-
-<picture>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true" />
-</picture>
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Plumess&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
 ## 🚉 **Tools & Platforms**
 
