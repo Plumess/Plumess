@@ -37,14 +37,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark&card_width=800"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&card_width=800"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&card_width=800" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact" />
 </picture>
 
 ## 🚉 **Tools & Platforms**
