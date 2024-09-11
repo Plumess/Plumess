@@ -32,7 +32,7 @@
 ![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 
-**Coding since August 28, 2024**
+**Coding for the last 7 days**
 
 <picture>
   <source
