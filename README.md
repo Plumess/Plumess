@@ -1,7 +1,7 @@
 ## Hi 👋 I'm **Plume**
 
 - I am working as a CVer, Image Processor and Deep Learning Engineer.
-- I am learning Large language models such as LLaMA, Containerization such as Docker/Kubernetes, and Triton.
+- I am learning Large language models such as Qwen2, Containerization such as Docker/Kubernetes, and Triton.
 
 ## 📚 **My GitHub**
 <p>
