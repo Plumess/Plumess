@@ -31,6 +31,7 @@
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
+![langchain](https://img.shields.io/badge/-LangChain%20%28learning%29-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
 
 **Coding for the last 7 days**
 
