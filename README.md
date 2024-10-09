@@ -32,7 +32,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js%20%28learning%29-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%28learning%29-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis%20%28learning%29-FF4438?style=flat-square&logo=redis&logoColor=fff)
-![Weaviate](https://img.shields.io/badge/-Weaviate%20%28learning%29-DDE072?style=flat-square&logo=weaviate&logoColor=fff)
+![Weaviate](https://img.shields.io/badge/-Weaviate%20%28learning%29-000000?style=flat-square&logo=weaviate&logoColor=fff)
 
 ![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
