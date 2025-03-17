@@ -1,7 +1,7 @@
 ## Hi 👋 I'm **Plume**
 
 - I am working as a CVer, Image Processor and Deep Learning Engineer.
-- I am learning Large language models such as Qwen2, Containerization such as Docker/Kubernetes, and Triton.
+- I am learning Large language models such as Qwen/DeepSeek, Containerization such as Docker/Kubernetes.
 
 ## 📚 **My GitHub**
 <p>
@@ -30,6 +30,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx%20%28learning%29-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![Kong](https://img.shields.io/badge/-Kong%20%28learning%29-003459?style=flat-square&logo=kong&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js%20%28learning%29-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
+![Three.js](https://img.shields.io/badge/-Three.js%20%28learning%29-000000?style=flat-square&logo=threedotjs&logoColor=fff)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%28learning%29-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis%20%28learning%29-FF4438?style=flat-square&logo=redis&logoColor=fff)
 ![Weaviate](https://img.shields.io/badge/-Weaviate%20%28learning%29-000000?style=flat-square&logo=weaviate&logoColor=fff)
@@ -66,7 +68,6 @@
 **Operating System**
 
 ![Windows 10](https://img.shields.io/badge/-Windows%2010-0078d6?style=flat-square&logo=windows&logoColor=fff)
-![Pop! OS](https://img.shields.io/badge/-Pop!%20OS-48B9C7?style=flat-square&logo=popos&logoColor=fff)
 ![Alma Linux](https://img.shields.io/badge/-AlmaLinux-000000?style=flat-square&logo=almalinux&logoColor=fff)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)
 
