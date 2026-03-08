@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 22 # 【修改点1】将 Node 版本从 18 升级到 22
 
       - name: Clone github-readme-stats
         run: git clone https://github.com/anuraghazra/github-readme-stats.git /tmp/stats
@@ -26,10 +26,12 @@ jobs:
         run: |
           cd /tmp/stats
           npm ci
-          npm run start &
+          
+          # 【修改点2】不再使用 npm run start，而是直接运行它自带的本地 Express 服务
+          node express.js &
           
           echo "等待服务启动..."
-          sleep 15 # 稍微延长一点等待时间，确保服务就绪
+          sleep 15
           
           cd ${{ github.workspace }}
           mkdir -p assets
