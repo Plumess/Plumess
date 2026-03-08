@@ -19,7 +19,6 @@
 ![TensorRT](https://img.shields.io/badge/-NVIDIA%20TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=fff)
 ![RockChip](https://img.shields.io/badge/-RockChip%20RKNN-000000?style=flat-square&logo=rockchip&logoColor=fff)
 ![Qualcomm](https://img.shields.io/badge/-Qualcomm%20QNN-3253DC?style=flat-square&logo=qualcomm&logoColor=fff)
-![LangChain](https://img.shields.io/badge/-LangChain%20%28learning%29-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
 
 ![Triton](https://img.shields.io/badge/-NVIDIA%20Triton%20%28learning%29-4EAA25?style=flat-square&logo=nvidia&logoColor=fff)
 ![vLLM](https://img.shields.io/badge/-vLLM%20%28learning%29-A5915F?style=flat-square&logo=vllm&logoColor=fff)
@@ -27,16 +26,18 @@
 
 **Development Skills**
 
-![Nginx](https://img.shields.io/badge/-Nginx%20%28learning%29-009639?style=flat-square&logo=nginx&logoColor=fff)
-![Kong](https://img.shields.io/badge/-Kong%20%28learning%29-003459?style=flat-square&logo=kong&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js%20%28learning%29-000000?style=flat-square&logo=nextdotjs&logoColor=fff)
 ![Three.js](https://img.shields.io/badge/-Three.js%20%28learning%29-000000?style=flat-square&logo=threedotjs&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
+![Nginx](https://img.shields.io/badge/-Nginx%20%28learning%29-009639?style=flat-square&logo=nginx&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%28learning%29-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
 ![Redis](https://img.shields.io/badge/-Redis%20%28learning%29-FF4438?style=flat-square&logo=redis&logoColor=fff)
 ![Weaviate](https://img.shields.io/badge/-Weaviate%20%28learning%29-000000?style=flat-square&logo=weaviate&logoColor=fff)
 
-![Docker](https://img.shields.io/badge/-Docker%20%28learning%29-2496ED?style=flat-square&logo=docker&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes%20%28learning%29-326CE5?style=flat-square&logo=kubernetes&logoColor=fff)
 ![Helm](https://img.shields.io/badge/-Helm%20%28learning%29-0F1689?style=flat-square&logo=helm&logoColor=fff)
 
