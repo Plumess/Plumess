@@ -2,7 +2,7 @@ name: Update GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 # 【新增这一段】明确赋予机器人写入仓库代码的权
