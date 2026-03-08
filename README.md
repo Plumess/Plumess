@@ -5,8 +5,8 @@
 
 ## 📚 **My GitHub**
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="./assets/github-stats.svg" />
+  <img height="180em" src="./assets/top-langs.svg" />
 </p>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Plumess&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
@@ -52,15 +52,7 @@
 **Coding for the last 7 days**
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Plume&langs_count=8&layout=compact" />
+  <img height="180em" align="center" src="./assets/wakatime.svg" />
 </picture>
 
 ## 🚉 **Tools & Platforms**
