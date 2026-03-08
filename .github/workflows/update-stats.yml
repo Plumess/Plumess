@@ -2,8 +2,8 @@ name: Update GitHub Stats SVGs
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 每 12 小时自动运行一次，拉取最新数据
-  workflow_dispatch: # 允许你在仓库的 Actions 页面手动点击 "Run workflow" 触发
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-and-push:
@@ -18,39 +18,30 @@ jobs:
           node-version: 18
 
       - name: Clone github-readme-stats
-        # 克隆官方仓库到临时目录
         run: git clone https://github.com/anuraghazra/github-readme-stats.git /tmp/stats
 
-      - name: Install dependencies and Start Server
+      - name: Build, Start Server and Generate SVGs
         env:
-          # PAT_1 是必须的，这样才能读取到你的私有仓库贡献数据
           PAT_1: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
           cd /tmp/stats
           npm ci
           npm run start &
-          sleep 10 # 等待本地 Express 服务完全启动
-
-      - name: Generate SVGs
-        run: |
-          # 在你的仓库根目录创建一个 assets 文件夹用来存放生成的图片
+          
+          echo "等待服务启动..."
+          sleep 15 # 稍微延长一点等待时间，确保服务就绪
+          
+          cd ${{ github.workspace }}
           mkdir -p assets
           
-          # 1. 生成 GitHub 状态卡片
-          curl -o assets/github-stats.svg "http://localhost:9000/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true"
-          
-          # 2. 生成语言卡片
-          curl -o assets/top-langs.svg "http://localhost:9000/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true"
-          
-          # 3. 生成 WakaTime 卡片 (暗黑主题)
-          curl -o assets/wakatime.svg "http://localhost:9000/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
+          curl -f -o assets/github-stats.svg "http://localhost:9000/api?username=Plumess&show_icons=true&count_private=true&theme=transparent&hide_border=true"
+          curl -f -o assets/top-langs.svg "http://localhost:9000/api/top-langs/?username=Plumess&langs_count=8&layout=compact&count_private=true&theme=transparent&hide_border=true"
+          curl -f -o assets/wakatime.svg "http://localhost:9000/api/wakatime?username=Plume&langs_count=8&layout=compact&theme=dark"
 
       - name: Commit and Push changes
         run: |
-          # 配置机器人账号进行自动提交
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add assets/
-          # 如果数据没有变化则跳过 commit，避免报错中止
           git commit -m "chore: auto-update github stats svgs" || exit 0
           git push
