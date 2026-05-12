@@ -1,135 +1,75 @@
-
-      <svg
-        width="495"
-        height="90"
-        viewBox="0 0 495 90"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #fff;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-    
-    .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .stat { font-size:12px; }
-    }
-    .stagger {
-      opacity: 0;
-      animation: fadeInAnimation 0.3s ease-in-out forwards;
-    }
-    .not_bold { font-weight: 400 }
-    .bold { font-weight: 700 }
-  
-    @keyframes slideInAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: calc(100%-100px);
-      }
-    }
-    @keyframes growWidthAnimation {
-      from {
-        width: 0;
-      }
-      to {
-        width: 100%;
-      }
-    }
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #9f9f9f }
-    #rect-mask rect{
-      animation: slideInAnimation 1s ease-in-out forwards;
-    }
-    .lang-progress{
-      animation: growWidthAnimation 0.6s ease-in-out forwards;
-    }
-    
-
-          
-      /* Animations */
-      @keyframes scaleInAnimation {
-        from {
-          transform: translate(-5px, 5px) scale(0);
-        }
-        to {
-          transform: translate(-5px, 5px) scale(1);
-        }
-      }
-      @keyframes fadeInAnimation {
-        from {
-          opacity: 0;
-        }
-        to {
-          opacity: 1;
-        }
-      }
-    
-          
-        </style>
-
-        
-
-        <rect
-          data-testid="card-bg"
-          x="0.5"
-          y="0.5"
-          rx="4.5"
-          height="99%"
-          stroke="#e4e2e2"
-          width="494"
-          fill="#151515"
-          stroke-opacity="1"
-        />
-
-        
-      <g
-        data-testid="card-title"
-        transform="translate(25, 35)"
-      >
-        <g transform="translate(0, 0)">
-      <text
-        x="0"
-        y="0"
-        class="header"
-        data-testid="header"
-      >WakaTime Stats (last 7 days)</text>
+<svg width="495" height="260" viewBox="0 0 495 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">WakaTime Stats last 7 days</title>
+  <desc id="descId">WakaTime coding activity for Plume over the last 7 days. Total coding time 18 hrs 9 mins, including Other language 23 hrs 31 mins.</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff; }
+    .stat { font: 600 13px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f; }
+    .lang { font: 600 12px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #fff; }
+    .muted { font: 400 12px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f; }
+    .percent { font: 600 12px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #9f9f9f; }
+    .bar-bg { fill: #2b2b2b; }
+  </style>
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="259" width="494" fill="#151515" stroke="#e4e2e2" stroke-opacity="1"/>
+  <g data-testid="card-title" transform="translate(25, 35)">
+    <text x="0" y="0" class="header">WakaTime Stats (last 7 days)</text>
+    <text x="0" y="24" class="stat">18 hrs 9 mins coding / 23 hrs 31 mins incl. Other / 3 hrs 37 mins daily avg</text>
+  </g>
+  <g data-testid="main-card-body" transform="translate(25, 82)">
+    <g transform="translate(0, 0)">
+      <text x="0" y="0" class="lang">Markdown</text>
+      <text x="185" y="0" class="muted">7 hrs 47 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">33.12%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="147.38" height="8" rx="4" fill="#2f80ed"/>
     </g>
-      </g>
-    
-
-        <g
-          data-testid="main-card-body"
-          transform="translate(0, 55)"
-        >
-          
-    <svg x="0" y="0" width="100%">
-      
-      <mask id="rect-mask">
-      <rect x="25" y="0" width="440" height="8" fill="white" rx="5" />
-      </mask>
-      
-      
-    <text x="25" y="11" class="stat bold" fill="#9f9f9f">WakaTime user profile not public</text>
-  
-    
-    </svg>
-  
-        </g>
-      </svg>
-    
+    <g transform="translate(0, 21)">
+      <text x="0" y="0" class="lang">Other</text>
+      <text x="185" y="0" class="muted">5 hrs 22 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">22.81%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="101.50" height="8" rx="4" fill="#f2994a"/>
+    </g>
+    <g transform="translate(0, 42)">
+      <text x="0" y="0" class="lang">AutoHotkey</text>
+      <text x="185" y="0" class="muted">2 hrs 28 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">10.53%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="46.86" height="8" rx="4" fill="#27ae60"/>
+    </g>
+    <g transform="translate(0, 63)">
+      <text x="0" y="0" class="lang">TypeScript</text>
+      <text x="185" y="0" class="muted">2 hrs 21 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">10.03%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="44.63" height="8" rx="4" fill="#3178c6"/>
+    </g>
+    <g transform="translate(0, 84)">
+      <text x="0" y="0" class="lang">PowerShell</text>
+      <text x="185" y="0" class="muted">1 hr 28 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">6.30%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="28.04" height="8" rx="4" fill="#5391fe"/>
+    </g>
+    <g transform="translate(0, 105)">
+      <text x="0" y="0" class="lang">Bash</text>
+      <text x="185" y="0" class="muted">47 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">3.33%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="14.82" height="8" rx="4" fill="#89e051"/>
+    </g>
+    <g transform="translate(0, 126)">
+      <text x="0" y="0" class="lang">INI</text>
+      <text x="185" y="0" class="muted">45 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">3.20%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="14.24" height="8" rx="4" fill="#d4aa00"/>
+    </g>
+    <g transform="translate(0, 147)">
+      <text x="0" y="0" class="lang">Docker</text>
+      <text x="185" y="0" class="muted">35 mins</text>
+      <text x="445" y="0" text-anchor="end" class="percent">2.49%</text>
+      <rect x="0" y="10" width="445" height="8" rx="4" class="bar-bg"/>
+      <rect x="0" y="10" width="11.08" height="8" rx="4" fill="#2496ed"/>
+    </g>
+  </g>
+</svg>
