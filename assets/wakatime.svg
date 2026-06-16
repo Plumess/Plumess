@@ -129,7 +129,17 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="232.2675"
+            width="227.385"
+            height="8"
+            fill="#858585"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="227.385"
+            y="0"
+            width="182.373"
             height="8"
             fill="#083fa1"
           />
@@ -137,19 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="232.2675"
+            x="409.758"
             y="0"
-            width="188.2785"
-            height="8"
-            fill="#858585"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="420.54600000000005"
-            y="0"
-            width="21.855"
+            width="27.2955"
             height="8"
             fill="#cb171e"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="442.40100000000007"
+            x="437.0535"
             y="0"
-            width="15.995999999999999"
+            width="19.9485"
             height="8"
             fill="#858585"
           />
@@ -167,25 +167,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="458.39700000000005"
+            x="457.002"
             y="0"
-            width="5.394"
+            width="6.7425"
             height="8"
             fill="#9c4221"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 3 hrs 19 mins
+        Other - 2 hrs 36 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 2 hrs 41 mins
+        Markdown - 2 hrs 5 mins
       </text>
     </g>
   
