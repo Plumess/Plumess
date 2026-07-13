@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="371.4885"
+            width="405.52649999999994"
             height="8"
             fill="#083fa1"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="371.4885"
+            x="405.52649999999994"
             y="0"
-            width="51.429"
+            width="24.738000000000003"
             height="8"
             fill="#858585"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="422.9175"
+            x="430.26449999999994"
             y="0"
-            width="22.691999999999997"
+            width="13.531500000000001"
             height="8"
             fill="#858585"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="445.6095"
+            x="443.79599999999994"
             y="0"
-            width="9.9975"
+            width="10.9275"
             height="8"
             fill="#292929"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="455.607"
+            x="454.72349999999994"
             y="0"
-            width="9.392999999999999"
+            width="10.2765"
             height="8"
             fill="#b07219"
           />
@@ -185,14 +185,14 @@
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 23 mins
+        Text - 10 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Text - 10 mins
+        Other - 5 mins
       </text>
     </g>
   
