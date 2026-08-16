@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="140"
-        viewBox="0 0 495 140"
+        height="115"
+        viewBox="0 0 495 115"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,27 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="231.8025"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="231.8025"
-            y="0"
-            width="108.43799999999999"
-            height="8"
-            fill="#292929"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="340.2405"
-            y="0"
-            width="82.956"
+            width="313.596"
             height="8"
             fill="#858585"
           />
@@ -157,39 +137,25 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="423.1965"
+            x="313.596"
             y="0"
-            width="41.85"
+            width="151.40400000000002"
             height="8"
-            fill="#f1e05a"
+            fill="#083fa1"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 27 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#292929" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JSON - 12 mins
-      </text>
-    </g>
-  
-    <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Other - 9 mins
       </text>
     </g>
   
-    <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+    <g transform="translate(230, 25)">
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript - 4 mins
+        Markdown - 4 mins
       </text>
     </g>
   
