@@ -129,50 +129,50 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="201.5775"
+            width="231.8955"
             height="8"
-            fill="#012456"
+            fill="#9c4221"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="201.5775"
+            x="231.8955"
             y="0"
-            width="188.1855"
-            height="8"
-            fill="#083fa1"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="389.763"
-            y="0"
-            width="65.5185"
+            width="187.44150000000002"
             height="8"
             fill="#858585"
           />
         
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="419.337"
+            y="0"
+            width="45.7095"
+            height="8"
+            fill="#083fa1"
+          />
+        
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PowerShell - 8 mins
+        TOML - 15 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 8 mins
+        Other - 12 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Other - 2 mins
+        Markdown - 3 mins
       </text>
     </g>
   
